@@ -1,0 +1,4 @@
+---
+applications:
+- name: ecstatic-ptolemy
+  memory: 64M
